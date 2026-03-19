@@ -2,3 +2,5 @@
   Model available in the supplementary materials of:  
   Kuo Geng et al., 2024  
   [https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.13123]
+
+  Users are encouraged to obtain the original model from the published source.
