@@ -63,3 +63,10 @@ This repository aims to:
 - Provide reproducible PBPK workflows for environmental chemical risk assessment
 - Enable quantitative evaluation of CYP-mediated DDI potential
 - Bridge environmental exposure modeling with pharmacokinetic interaction analysis
+
+---
+
+## Acknowledgement
+<sub>
+This study was supported by the Korea Environmental Industry & Technology Institute (KEITI) through the Core Technology Development Project for Environmental Diseases Prevention and Management (RS-2021-KE001333), funded by the Ministry of Environment (MOE), Republic of Korea.
+</sub>
